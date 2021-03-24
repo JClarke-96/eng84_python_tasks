@@ -72,7 +72,7 @@ def user_choice():
         print("Invalid input")
 
 
-# Display info to the user about the calculator5
+# Display info to the user about the calculator
 print("This calculator can add, subtract, multiply, or divide two numbers")
 print("It can also calculate the area of a circle, square, or triangle")
 
