@@ -45,7 +45,7 @@
 - <strong>4 Points:</strong> F, H, V, W, Y
 - <strong>5 Points:</strong> K
 - <strong>8 Points:</strong> J, X
-- <strong> 10 Points:</strong>strong> Q, Z
+- <strong> 10 Points:</strong> Q, Z
 
 ## Task 8
 - Test Driven Development
