@@ -35,3 +35,25 @@
 - Make a loop that iterates over each name
 - Iterating over each name formats it to a lowercase in a new variable called list_names_lower
 - Iterate over the list of values to find if they are even
+
+## Task 7
+- Create a Scrabble word calculator
+- Calculate scores for a given word
+- <strong>1 Point:</strong> A, E, I, O, U, L, N, R, S, T
+- <strong>2 Points:</strong> D, G
+- <strong>3 Points:</strong> B, C, M, P
+- <strong>4 Points:</strong> F, H, V, W, Y
+- <strong>5 Points:</strong> K
+- <strong>8 Points:</strong> J, X
+- <strong> 10 Points:</strong>strong> Q, Z
+
+## Task 8
+- Test Driven Development
+- `import naan_factory`
+- `run_factory()`
+- Write and run the test
+- Read the error and write code to pass
+### User stories
+- Use `make_dough` with 'water' and 'flour' to make 'dough'
+- Use `bake_dough` with 'dough' to get 'naan'
+- Use `run_factory` with 'water' and 'flour' to get 'naan'
