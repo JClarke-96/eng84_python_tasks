@@ -19,4 +19,10 @@ while adding:
 # Loop through each name in the list, outputting the name in lower case
 for name in names:
     list_names_lower = name.lower()
-    print(list_names_lower)
+    odd_even = (len(list_names_lower)) % 2
+    if odd_even == 0:
+        print(f"{list_names_lower} has an even amount of letters")
+    elif odd_even == 1:
+        print(f"{list_names_lower} has an odd amount of letters")
+    else:
+        print("Error: name length not odd or even")
