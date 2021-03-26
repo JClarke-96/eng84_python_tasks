@@ -57,3 +57,17 @@
 - Use `make_dough` with 'water' and 'flour' to make 'dough'
 - Use `bake_dough` with 'dough' to get 'naan'
 - Use `run_factory` with 'water' and 'flour' to get 'naan'
+
+## Task 9
+- Write a program to use control flow
+- Ask user for age and if they have a driver's license
+- Output a message based on results:
+  - You can vote and drive
+  - You can vote
+  - You can drive
+  - You can't drink but are close
+  - You're too young, back to school
+- Keep asking for input until user types 'exit'
+
+## Task 10
+- Your hero story
