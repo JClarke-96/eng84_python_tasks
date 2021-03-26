@@ -71,3 +71,12 @@
 
 ## Task 10
 - Your hero story
+- Write a story with a beginning, middle, and end
+- Define a dictionary with 'start', 'middle' and 'end' keys
+- The story will be contained in the values for the dictionary
+- Print the entire dictionary
+- Print the dictionary's type
+- Print the dictionary keys
+- Print the dictionary values
+- Print individual values using keys
+- Add new key: value pair  `hero: yourSuperHero`
